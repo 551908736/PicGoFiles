@@ -1,0 +1,716 @@
+12:17:23.417 HwViewRootImpl                                     com.ddpai.libsdemo                   D  GPLOG: TraceInputParams = 0
+12:17:23.417 InputEvent                                         com.ddpai.libsdemo                   I  (585,370)0
+12:17:23.419 stylus                                             com.ddpai.libsdemo                   D  init stylus touchlistener.
+12:17:23.421 Hwaps                                              com.ddpai.libsdemo                   I  APS: EventAnalyzed: initAPS: version is 10.1.0.18
+12:17:23.421 Hwaps                                              com.ddpai.libsdemo                   D  Fpsrequest create,type:EXACTLY_IDENTIFY
+12:17:23.423 hwaps                                              com.ddpai.libsdemo                   I  HwAps: JNI_OnLoad
+12:17:23.423 Hwaps                                              com.ddpai.libsdemo                   D  Fpsrequest create,type:EXACTLY_IDENTIFY
+12:17:23.423 Hwaps                                              com.ddpai.libsdemo                   D  Fpsrequest create,type:OPENGL_SETTING
+12:17:23.424 Hwaps                                              com.ddpai.libsdemo                   D  FpsController create
+12:17:23.430 Hwaps                                              com.ddpai.libsdemo                   D  APS: EventAnalyzed: reInitFpsPara :mBaseFps = 60; mMaxFps = 60
+12:17:23.432 Settings                                           com.ddpai.libsdemo                   W  Setting device_provisioned has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+12:17:23.434 HiTouch_HiTouchSensor                              com.ddpai.libsdemo                   V  User setup is finished.
+12:17:23.435 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] void java.util.HashMap$Node.<init>(int, java.lang.Object, java.lang.Object, java.util.HashMap$Node) @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:23.443 InputEvent                                         com.ddpai.libsdemo                   I  Moving, count=1
+12:17:23.450 InputEvent                                         com.ddpai.libsdemo                   I  (585,370)1
+12:17:23.451 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] java.lang.ThreadLocal$ThreadLocalMap$Entry java.lang.ThreadLocal$ThreadLocalMap.getEntryAfterMiss(java.lang.ThreadLocal, int, java.lang.ThreadLocal$ThreadLocalMap$Entry) @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:23.451 HwApsManager                                       com.ddpai.libsdemo                   W  HwApsManagerService, registerCallback, start !
+12:17:23.452 Hwaps                                              com.ddpai.libsdemo                   D  APS: EventAnalyzed: registerCallbackInApsManagerService, mPkgName:com.ddpai.libsdemo; result = true
+12:17:23.456 AudioManager                                       com.ddpai.libsdemo                   V  querySoundEffectsEnabled...
+12:17:23.462 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] void java.lang.StringBuilder.<init>() @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:23.467 VStepRunnable_log_thread                           com.ddpai.libsdemo                   V  runnable is start...
+12:17:23.470 [UI][main][TcpDirectMediaPlayer]                   com.ddpai.libsdemo                   V  mSurfaceView.isValid=true
+12:17:23.472 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] java.lang.Object java.lang.ThreadLocal.get() @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:23.472 [UI][main][MediaDecoderFactory]                    com.ddpai.libsdemo                   V  isSupportMediaCodec=false
+12:17:23.475 videoLibJni                                        com.ddpai.libsdemo                   I  Creating native H264 decoder context,color 44
+12:17:23.476 [UI][main][TcpDirectMediaPlayer]                   com.ddpai.libsdemo                   V  init encType：0 decType：0 rgbType：44 dropFrameType:0
+12:17:23.478 [UI][main][AVDataHandler]                          com.ddpai.libsdemo                   D  decodeThread stsart
+12:17:23.479 [UI][main][TcpDirectMediaPlayer]                   com.ddpai.libsdemo                   V  init encType：0 decType：0 rgbType：44 dropFrameType:0
+12:17:23.480 [UI][main][TcpDirectMediaPlayer]                   com.ddpai.libsdemo                   V  LIVE set media:193.168.0.1, connInfo.ipAddr = 193.168.0.1, connInfo.port = 6200, VPlayerConst.avDataPort = 6200, avDataPort = 6200
+12:17:23.481 HwAppInnerBoostImpl                                com.ddpai.libsdemo                   D  asyncReportData com.ddpai.libsdemo,2,1,1,0 interval=61
+12:17:23.481 [UI][pool-1-thread-1][playing ]                    com.ddpai.libsdemo                   V  runnable  is start.
+12:17:23.482 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] java.lang.ThreadLocal$ThreadLocalMap$Entry java.lang.ThreadLocal$ThreadLocalMap.getEntry(java.lang.ThreadLocal) @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:23.482 [UI][pool-1-thread-1][TcpDirectMediaPlayer]        com.ddpai.libsdemo                   V  stop
+12:17:23.483 [UI][pool-1-thread-1][AVDataHandler]               com.ddpai.libsdemo                   D  decodeThread stsart
+12:17:23.492 [UI][pool-1-thread-1][TcpTransport]                com.ddpai.libsdemo                   V  @@@@@@@@@receive buffer:16384
+12:17:23.493 [UI][pool-1-thread-1][TcpTransport]                com.ddpai.libsdemo                   V  ---recThread.start():1750133843491
+12:17:23.493 [UI][193.168.0.1_6200][TCPReceiverThread]          com.ddpai.libsdemo                   V  start receive data with nio.
+12:17:23.499 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] int java.lang.String.indexOf(java.lang.String, int) @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:23.500 [UI][193.168.0.1_6200][TCPReceiverThread]          com.ddpai.libsdemo                   V  start receive data with nio connected.
+12:17:23.532 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] java.lang.ThreadLocal$ThreadLocalMap$Entry java.lang.ThreadLocal$ThreadLocalMap.access$000(java.lang.ThreadLocal$ThreadLocalMap, java.lang.ThreadLocal) @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:23.532 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 0
+12:17:23.532 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：8 port:0
+12:17:23.534 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 0
+12:17:23.534 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：13040 port:0
+12:17:23.536 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 0
+12:17:23.536 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：15936 port:0
+12:17:23.537 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 0
+12:17:23.537 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：20095 port:0
+12:17:23.549 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] int android.content.res.Configuration.compareTo(android.content.res.Configuration) @ /system/framework/framework.jar
+12:17:23.553 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 0
+12:17:23.553 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：20600 port:0
+12:17:23.592 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:23.592 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:23.592 AbsH264Decoder                                     com.ddpai.libsdemo                   W  decodeFrame profff--0, decodeBuf.length=20095 port:6200
+12:17:23.593 SoftH264Decoder                                    com.ddpai.libsdemo                   V  in I Frame typeH264:7
+12:17:23.593 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 7(SPS), nal_ref_idc: 3
+12:17:23.593 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.593 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.593 [UI][pool-1-thread-1][playing ]                    com.ddpai.libsdemo                   V  runnable  is end.
+12:17:23.593 SoftH264Decoder                                    com.ddpai.libsdemo                   V  in I Frame typeH264:8
+12:17:23.593 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 8(PPS), nal_ref_idc: 3
+12:17:23.594 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.594 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.594 SoftH264Decoder                                    com.ddpai.libsdemo                   V  in I Frame typeH264:5
+12:17:23.594 [UI][decode_thread][DecoderThread]                 com.ddpai.libsdemo                   V  DecoderThread start
+12:17:23.594 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time I= 1 port:6200
+12:17:23.594 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:0,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:20600 port:6200
+12:17:23.594 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=505 port:6200
+12:17:23.594 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:23.594 [UI][decode_thread][AbsH264Decoder]                com.ddpai.libsdemo                   I  isFirstIFrameCome = true;
+12:17:23.595 videoLibJni                                        com.ddpai.libsdemo                   I  Format yuvj420p chosen by get_format().
+12:17:23.595 videoLibJni                                        com.ddpai.libsdemo                   I  Reinit context to 1280x720, pix_fmt: yuvj420p
+12:17:23.595 videoLibJni                                        com.ddpai.libsdemo                   I  Frame num gap 1 65535
+12:17:23.597 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] java.lang.ThreadLocal$ThreadLocalMap java.lang.ThreadLocal.getMap(java.lang.Thread) @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:23.602 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.602 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.602 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 8 port:6200
+12:17:23.603 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:20095,tmpbufLeng:20600 port:6200
+12:17:23.614 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:23.614 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：495 port:6200
+12:17:23.614 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:23.614 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:23.614 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=495 port:6200
+12:17:23.615 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:23.617 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.617 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.617 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:23.617 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:495 port:6200
+12:17:23.630 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] int java.lang.ThreadLocal.access$400(java.lang.ThreadLocal) @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:23.635 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:23.635 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：479 port:6200
+12:17:23.636 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:23.636 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:23.636 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=479 port:6200
+12:17:23.636 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:23.638 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.638 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.638 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:23.638 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:479 port:6200
+12:17:23.677 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:23.677 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：652 port:6200
+12:17:23.678 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:23.678 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:23.679 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=652 port:6200
+12:17:23.679 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:23.680 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] java.lang.Object[] java.util.Arrays.copyOf(java.lang.Object[], int, java.lang.Class) @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:23.681 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.681 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.681 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:23.681 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:652 port:6200
+12:17:23.697 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] int java.lang.ThreadLocal$ThreadLocalMap.nextIndex(int, int) @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:23.713 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:23.713 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：431 port:6200
+12:17:23.714 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:23.714 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:23.714 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=431 port:6200
+12:17:23.714 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:23.722 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.722 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.722 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 8 port:6200
+12:17:23.722 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:431 port:6200
+12:17:23.741 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:23.742 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：469 port:6200
+12:17:23.742 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:23.742 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:23.742 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=469 port:6200
+12:17:23.742 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:23.750 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.750 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.750 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 8 port:6200
+12:17:23.750 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:469 port:6200
+12:17:23.763 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:23.763 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：8 port:6200
+12:17:23.763 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:23.763 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:23.763 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：479 port:6200
+12:17:23.764 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:23.764 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=479 port:6200
+12:17:23.764 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:23.772 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.772 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.772 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 8 port:6200
+12:17:23.773 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:479 port:6200
+12:17:23.803 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:23.803 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：643 port:6200
+12:17:23.804 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:23.804 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:23.804 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=643 port:6200
+12:17:23.804 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:23.816 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.816 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.816 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 12 port:6200
+12:17:23.816 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:643 port:6200
+12:17:23.841 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:23.841 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：448 port:6200
+12:17:23.841 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:23.841 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:23.842 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=448 port:6200
+12:17:23.842 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:23.852 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.852 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.852 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 10 port:6200
+12:17:23.852 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:448 port:6200
+12:17:23.861 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:23.861 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：439 port:6200
+12:17:23.862 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:23.862 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:23.862 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=439 port:6200
+12:17:23.862 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:23.876 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.876 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.876 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 14 port:6200
+12:17:23.876 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:439 port:6200
+12:17:23.902 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:23.902 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：8 port:6200
+12:17:23.902 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:23.902 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:23.903 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:23.903 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：510 port:6200
+12:17:23.904 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:23.904 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:23.904 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=518 port:6200
+12:17:23.904 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:23.908 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.908 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.908 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 4 port:6200
+12:17:23.908 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:0,startPos:0,tmpbufLeng:518 port:6200
+12:17:23.943 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:23.943 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：630 port:6200
+12:17:23.944 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:23.944 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:23.944 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=630 port:6200
+12:17:23.944 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:23.956 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.956 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.956 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 12 port:6200
+12:17:23.957 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:630 port:6200
+12:17:23.961 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] void java.lang.Thread.sleep(long, int) @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:23.964 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:23.964 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：462 port:6200
+12:17:23.964 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:23.964 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:23.964 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=462 port:6200
+12:17:23.964 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:23.969 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:23.969 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:23.969 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 5 port:6200
+12:17:23.969 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:462 port:6200
+12:17:24.004 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.004 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：498 port:6200
+12:17:24.004 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:24.004 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:24.004 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=498 port:6200
+12:17:24.005 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.012 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.013 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.013 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 8 port:6200
+12:17:24.013 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:498 port:6200
+12:17:24.045 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.045 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：517 port:6200
+12:17:24.046 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:24.046 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:24.046 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=517 port:6200
+12:17:24.046 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.055 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.055 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.055 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 9 port:6200
+12:17:24.055 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:517 port:6200
+12:17:24.086 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.086 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：629 port:6200
+12:17:24.086 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:24.086 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:24.086 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=629 port:6200
+12:17:24.086 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.089 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.089 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.089 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:24.089 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:629 port:6200
+12:17:24.106 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.106 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：496 port:6200
+12:17:24.106 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:24.106 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:24.106 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=496 port:6200
+12:17:24.107 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.115 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.115 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.115 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 8 port:6200
+12:17:24.115 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:496 port:6200
+12:17:24.146 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.146 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：8 port:6200
+12:17:24.147 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.147 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：500 port:6200
+12:17:24.147 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:24.147 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:24.147 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=500 port:6200
+12:17:24.147 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.150 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.150 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.150 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:24.150 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:500 port:6200
+12:17:24.187 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.187 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：447 port:6200
+12:17:24.188 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:24.188 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:24.188 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=447 port:6200
+12:17:24.189 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.195 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.196 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.196 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 8 port:6200
+12:17:24.196 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:447 port:6200
+12:17:24.209 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.209 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：556 port:6200
+12:17:24.210 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:24.210 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:24.210 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=556 port:6200
+12:17:24.210 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.212 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.212 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.212 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:24.212 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:556 port:6200
+12:17:24.250 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.250 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：461 port:6200
+12:17:24.250 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:24.251 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:24.251 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=461 port:6200
+12:17:24.251 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.254 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.254 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.254 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:24.254 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:461 port:6200
+12:17:24.294 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.294 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：388 port:6200
+12:17:24.295 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:24.295 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:24.295 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=388 port:6200
+12:17:24.295 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.302 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.302 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.302 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 7 port:6200
+12:17:24.302 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:388 port:6200
+12:17:24.342 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.342 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：480 port:6200
+12:17:24.343 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:24.343 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:24.343 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=480 port:6200
+12:17:24.343 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.347 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.347 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.347 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 4 port:6200
+12:17:24.347 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:480 port:6200
+12:17:24.910 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.910 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:24.910 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：1000 port:6200
+12:17:24.911 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:24.911 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=526 port:6200
+12:17:24.911 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.912 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.912 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：12169 port:6200
+12:17:24.916 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.916 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：20857 port:6200
+12:17:24.918 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.918 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：25446 port:6200
+12:17:24.919 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.919 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：26185 port:6200
+12:17:24.921 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.921 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：27246 port:6200
+12:17:24.927 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.927 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.927 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 16 port:6200
+12:17:24.927 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:27246,startPos:0,tmpbufLeng:1000 port:6200
+12:17:24.928 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=466 port:6200
+12:17:24.928 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.938 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.938 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：27697 port:6200
+12:17:24.940 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.940 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.941 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 12 port:6200
+12:17:24.941 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:27697,startPos:526,tmpbufLeng:1000 port:6200
+12:17:24.942 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:24.942 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:24.942 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=545 port:6200
+12:17:24.942 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.954 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.954 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.954 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 12 port:6200
+12:17:24.954 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:0,startPos:0,tmpbufLeng:27705 port:6200
+12:17:24.954 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=434 port:6200
+12:17:24.954 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.958 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.958 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.958 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 4 port:6200
+12:17:24.958 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:0,startPos:545,tmpbufLeng:27705 port:6200
+12:17:24.958 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=604 port:6200
+12:17:24.958 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.959 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:24.959 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：557 port:6200
+12:17:24.960 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.960 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.960 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:24.960 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:557,startPos:979,tmpbufLeng:27705 port:6200
+12:17:24.960 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=450 port:6200
+12:17:24.960 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.963 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.963 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.963 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:24.963 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:557,startPos:1583,tmpbufLeng:27705 port:6200
+12:17:24.963 AbsH264Decoder                                     com.ddpai.libsdemo                   W  decodeFrame profff--0, decodeBuf.length=20028 port:6200
+12:17:24.963 SoftH264Decoder                                    com.ddpai.libsdemo                   V  in I Frame typeH264:7
+12:17:24.963 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 7(SPS), nal_ref_idc: 3
+12:17:24.963 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.963 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.963 SoftH264Decoder                                    com.ddpai.libsdemo                   V  in I Frame typeH264:8
+12:17:24.963 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 8(PPS), nal_ref_idc: 3
+12:17:24.963 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.963 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.963 SoftH264Decoder                                    com.ddpai.libsdemo                   V  in I Frame typeH264:5
+12:17:24.964 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time I= 1 port:6200
+12:17:24.964 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:0,tmpPos:8,sectmpPos:557,startPos:2033,tmpbufLeng:27705 port:6200
+12:17:24.964 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=566 port:6200
+12:17:24.964 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.964 videoLibJni                                        com.ddpai.libsdemo                   I  Frame num gap 1 65535
+12:17:24.965 videoLibJni                                        com.ddpai.libsdemo                   I  Invalid POC 65538<65564
+12:17:24.968 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.968 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.968 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 4 port:6200
+12:17:24.968 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:557,startPos:22061,tmpbufLeng:27705 port:6200
+12:17:24.968 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=436 port:6200
+12:17:24.968 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.970 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.970 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.970 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:24.970 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:557,startPos:22627,tmpbufLeng:27705 port:6200
+12:17:24.970 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=503 port:6200
+12:17:24.970 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.973 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.973 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.973 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:24.973 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:557,startPos:23063,tmpbufLeng:27705 port:6200
+12:17:24.973 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=636 port:6200
+12:17:24.973 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.975 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.975 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.975 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:24.975 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:557,startPos:23566,tmpbufLeng:27705 port:6200
+12:17:24.975 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=405 port:6200
+12:17:24.975 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.978 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.978 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.978 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:24.978 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:557,startPos:24202,tmpbufLeng:27705 port:6200
+12:17:24.978 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=371 port:6200
+12:17:24.978 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.980 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.980 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.980 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:24.980 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:557,startPos:24607,tmpbufLeng:27705 port:6200
+12:17:24.980 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=468 port:6200
+12:17:24.980 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.982 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.982 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.982 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:24.982 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:557,startPos:24978,tmpbufLeng:27705 port:6200
+12:17:24.982 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=747 port:6200
+12:17:24.982 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.984 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.984 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.984 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:24.984 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:557,startPos:25446,tmpbufLeng:27705 port:6200
+12:17:24.985 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=522 port:6200
+12:17:24.985 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.987 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.987 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.987 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:24.987 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:557,startPos:26193,tmpbufLeng:27705 port:6200
+12:17:24.987 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=539 port:6200
+12:17:24.987 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.989 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.989 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.989 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:24.989 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:557,startPos:26715,tmpbufLeng:27705 port:6200
+12:17:24.989 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=451 port:6200
+12:17:24.989 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.991 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.991 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.991 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:24.991 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:557,startPos:27254,tmpbufLeng:27705 port:6200
+12:17:24.992 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:24.992 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:24.992 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=557 port:6200
+12:17:24.992 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:24.994 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:24.994 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:24.994 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:24.994 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:557 port:6200
+12:17:25.001 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.001 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：459 port:6200
+12:17:25.001 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.001 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.001 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=459 port:6200
+12:17:25.001 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.003 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.003 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.003 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:25.003 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:459 port:6200
+12:17:25.021 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.021 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：413 port:6200
+12:17:25.022 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.022 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.022 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=413 port:6200
+12:17:25.023 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.025 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.025 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.025 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:25.025 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:413 port:6200
+12:17:25.063 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.063 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：605 port:6200
+12:17:25.063 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.063 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.063 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=605 port:6200
+12:17:25.063 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.066 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.067 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.067 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 4 port:6200
+12:17:25.067 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:605 port:6200
+12:17:25.104 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.104 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：556 port:6200
+12:17:25.104 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.104 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.104 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=556 port:6200
+12:17:25.104 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.114 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.114 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.114 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 10 port:6200
+12:17:25.114 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:556 port:6200
+12:17:25.124 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.124 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：473 port:6200
+12:17:25.124 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.125 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.125 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=473 port:6200
+12:17:25.125 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.127 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.127 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.127 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:25.127 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:473 port:6200
+12:17:25.131 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] void java.lang.Thread.sleep(long) @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:25.165 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.166 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：437 port:6200
+12:17:25.166 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.166 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.166 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=437 port:6200
+12:17:25.166 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.172 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.172 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.172 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 6 port:6200
+12:17:25.172 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:437 port:6200
+12:17:25.189 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.189 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：352 port:6200
+12:17:25.190 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.190 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.190 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=352 port:6200
+12:17:25.190 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.198 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.198 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.198 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 8 port:6200
+12:17:25.198 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:352 port:6200
+12:17:25.227 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.230 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.230 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：585 port:6200
+12:17:25.230 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.230 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=585 port:6200
+12:17:25.230 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.235 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.235 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.235 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 5 port:6200
+12:17:25.235 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:585 port:6200
+12:17:25.267 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.267 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：444 port:6200
+12:17:25.267 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.268 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.268 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=444 port:6200
+12:17:25.268 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.271 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.271 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.271 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:25.271 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:444 port:6200
+12:17:25.307 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.307 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：397 port:6200
+12:17:25.307 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.307 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.307 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=397 port:6200
+12:17:25.307 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.310 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.310 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.310 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:25.310 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:397 port:6200
+12:17:25.328 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.328 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：8 port:6200
+12:17:25.329 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.329 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.330 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.330 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：426 port:6200
+12:17:25.330 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.330 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.330 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=434 port:6200
+12:17:25.330 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.332 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.333 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.333 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:25.333 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:0,startPos:0,tmpbufLeng:434 port:6200
+12:17:25.333 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] java.lang.AbstractStringBuilder java.lang.AbstractStringBuilder.append(int) @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:25.370 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.370 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：532 port:6200
+12:17:25.370 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.371 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.371 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=532 port:6200
+12:17:25.371 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.373 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.373 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.374 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 2 port:6200
+12:17:25.374 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:532 port:6200
+12:17:25.390 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.390 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：440 port:6200
+12:17:25.391 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.391 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.391 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=440 port:6200
+12:17:25.391 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.394 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.394 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.394 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:25.394 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:440 port:6200
+12:17:25.422 AwareBitmapCacher                                  com.ddpai.libsdemo                   I  init lrucache size: 2097152 pid=16341
+12:17:25.431 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.431 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：464 port:6200
+12:17:25.432 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.432 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.432 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=464 port:6200
+12:17:25.432 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.435 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.435 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.435 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:25.435 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:464 port:6200
+12:17:25.471 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.471 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：436 port:6200
+12:17:25.472 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.472 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.472 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=436 port:6200
+12:17:25.472 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.477 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.477 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.477 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 5 port:6200
+12:17:25.477 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:436 port:6200
+12:17:25.492 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.492 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：582 port:6200
+12:17:25.492 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.492 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.492 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=582 port:6200
+12:17:25.492 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.495 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.495 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.495 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:25.495 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:582 port:6200
+12:17:25.533 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.533 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：410 port:6200
+12:17:25.533 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.533 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.533 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=410 port:6200
+12:17:25.533 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.536 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.536 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.536 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:25.536 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:410 port:6200
+12:17:25.573 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.573 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：8 port:6200
+12:17:25.574 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.574 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：2904 port:6200
+12:17:25.575 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.575 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：14480 port:6200
+12:17:25.575 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.575 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.575 AbsH264Decoder                                     com.ddpai.libsdemo                   V  i:0，tmpbufLeng：14480,i + frame_length:20092
+12:17:25.576 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.576 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：2896 port:6200
+12:17:25.577 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.577 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.577 AbsH264Decoder                                     com.ddpai.libsdemo                   V  data destitute,cur:17376,need:20100
+12:17:25.580 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.580 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：2724 port:6200
+12:17:25.580 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.580 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.580 AbsH264Decoder                                     com.ddpai.libsdemo                   W  decodeFrame profff--0, decodeBuf.length=20100 port:6200
+12:17:25.580 SoftH264Decoder                                    com.ddpai.libsdemo                   V  in I Frame typeH264:7
+12:17:25.580 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 7(SPS), nal_ref_idc: 3
+12:17:25.581 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.581 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.581 SoftH264Decoder                                    com.ddpai.libsdemo                   V  in I Frame typeH264:8
+12:17:25.581 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 8(PPS), nal_ref_idc: 3
+12:17:25.581 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.581 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.581 SoftH264Decoder                                    com.ddpai.libsdemo                   V  in I Frame typeH264:5
+12:17:25.581 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time I= 1 port:6200
+12:17:25.581 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:0,tmpPos:17376,sectmpPos:0,startPos:0,tmpbufLeng:20100 port:6200
+12:17:25.594 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.594 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：8 port:6200
+12:17:25.594 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.594 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.595 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.595 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：545 port:6200
+12:17:25.595 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.595 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.595 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=553 port:6200
+12:17:25.595 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.595 videoLibJni                                        com.ddpai.libsdemo                   I  Frame num gap 1 65535
+12:17:25.595 videoLibJni                                        com.ddpai.libsdemo                   I  Invalid POC 65538<65564
+12:17:25.599 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.599 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.599 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 4 port:6200
+12:17:25.599 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:8,sectmpPos:0,startPos:0,tmpbufLeng:553 port:6200
+12:17:25.635 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.635 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：8 port:6200
+12:17:25.636 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.636 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：554 port:6200
+12:17:25.636 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.636 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.636 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=554 port:6200
+12:17:25.636 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.638 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.638 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.639 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 3 port:6200
+12:17:25.639 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:554 port:6200
+12:17:25.674 ResMng NATIVE_MSG_FILTER                           com.ddpai.libsdemo                   E  endActivityTransaction: margin state not match
+12:17:25.674 RtgSched                                           com.ddpai.libsdemo                   D  resetRtgSchedHandle failed enable:0
+12:17:25.676 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer begin--wait lock port--> 6200
+12:17:25.677 AbsH264Decoder                                     com.ddpai.libsdemo                   V  add2buffer--own lock....recvPos：539 port:6200
+12:17:25.677 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes begin--wait lock -->
+12:17:25.677 AbsH264Decoder                                     com.ddpai.libsdemo                   V  decodeBytes--own lock....
+12:17:25.677 AbsH264Decoder                                     com.ddpai.libsdemo                   E  decodeFrame profff:1 length=539 port:6200
+12:17:25.677 videoLibJni                                        com.ddpai.libsdemo                   I  nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+12:17:25.682 ViewRootImpl[MainActivity]                         com.ddpai.libsdemo                   I  handleAppVisibility: mAppVisible false
+12:17:25.682 videoLibJni                                        com.ddpai.libsdemo                   I  avcodec_receive_frame ret:-11...
+12:17:25.682 SoftH264Decoder                                    com.ddpai.libsdemo                   V  img is not ready.
+12:17:25.682 SoftH264Decoder                                    com.ddpai.libsdemo                   V  decodeFrame time = 5 port:6200
+12:17:25.682 AbsH264Decoder                                     com.ddpai.libsdemo                   V  profff:1,tmpPos:0,sectmpPos:0,startPos:0,tmpbufLeng:539 port:6200
+12:17:25.683 DecorView                                          com.ddpai.libsdemo                   D  showOrHideHighlightView: hasFocus=false; winMode=1; isMrgNull=true
+12:17:25.683 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] void java.lang.ThreadLocal.set(java.lang.Object) @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:25.686 .ddpai.libsdem                                     com.ddpai.libsdemo                   I  jit_compiled:[OK] void java.lang.ThreadLocal$ThreadLocalMap.set(java.lang.ThreadLocal, java.lang.Object) @ /apex/com.android.runtime/javalib/core-oj.jar
+12:17:25.696 [UI][main][TcpDirectMediaPlayer]                   com.ddpai.libsdemo                   V  --surfaceDestroyed--
+12:17:25.705 [UI][main][TcpDirectMediaPlayer]                   com.ddpai.libsdemo                   V  stop
+12:17:25.707 [UI][193.168.0.1_6200][SoftH264Decoder]            com.ddpai.libsdemo                   V  soft decoder dstory errCode:0
+12:17:25.708 DollieAdapterService                               com.huawei.systemserver              E  notifyActivityState pkg:com.ddpai.libsdemo/com.ddpai.libsdemo.MainActivity state:16 fg:false mUid:10868
+12:17:25.754 [UI][main][DecoderThread]                          com.ddpai.libsdemo                   V  set isStop true.
+12:17:25.755 [UI][decode_thread][DecoderThread]                 com.ddpai.libsdemo                   V  DecoderThread exist
+12:17:25.762 libEGL                                             com.ddpai.libsdemo                   W  EGLNativeWindowType 0xd4c033c8 disconnect failed
+12:17:25.762 ViewRootImpl[MainActivity]                         com.ddpai.libsdemo                   I  relayoutWindow
+12:17:25.770 ViewRootImpl[MainActivity]                         com.ddpai.libsdemo                   I  relayoutWindow relayoutResult 5
+12:17:25.778 WindowManager                                      system_process                       E  win=Window{a436e99 u0 com.ddpai.libsdemo/com.ddpai.libsdemo.MainActivity} destroySurfaces: appStopped=true win.mWindowRemovalAllowed=false win.mRemoveOnExit=false
+---------------------------- PROCESS ENDED (16341) for package com.ddpai.libsdemo ----------------------------
